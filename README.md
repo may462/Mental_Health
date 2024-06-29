@@ -11,8 +11,8 @@ Il dataset utilizzato è survey, è possibile scaricarlo al seguente link: https
 - Scarica le dipendenze con il comando: pip install -r requirements.txt
 
 ## RISOLUZIONE DEI PROBLEMI
-- Assicurati che tutte le dipendenze siano installate come specificato in requirements.txt
 - Verifica che survey.csv sia posizionato nella directory appropriata
+- Assicurati che tutte le dipendenze siano installate come specificato in requirements.txt
 
 ## CONTRIBUTI
 [@Maria De Rosa](https://github.com/may462/Mental_Health.git)
