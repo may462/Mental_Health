@@ -7,8 +7,8 @@ Il progetto analizza un dataset di sondaggi sulla salute mentale per costruire e
 Il dataset utilizzato è survey, è possibile scaricarlo al seguente link: https://www.kaggle.com/code/kairosart/machine-learning-for-mental-health-1/input
 
 ## CONFIGURAZIONE
-Posiziona il dataset "survey.csv" nella directory appropriata 
-Scarica le dipendenze con il comando: pip install -r requirements.txt
+- Posiziona il dataset "survey.csv" nella directory appropriata 
+- Scarica le dipendenze con il comando: pip install -r requirements.txt
 
 ## RISOLUZIONE DEI PROBLEMI
 - Assicurati che tutte le dipendenze siano installate come specificato in requirements.txt
