@@ -15,7 +15,7 @@ Scarica le dipendenze con il comando: pip install -r requirements.txt
 - Verifica che survey.csv sia posizionato nella directory appropriata
 
 ## CONTRIBUTI
-[@Maria De Rosa](https://github.com/may462/MentalHealth.git)
+[@Maria De Rosa](https://github.com/may462/Mental_Health.git)
 
 
 ## UTILIZZO E DESCRIZIONE DELLE CARTELLE
